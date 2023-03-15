@@ -1,5 +1,6 @@
 # World Bank Data - Web App
 Heroku free plan was discontinued. Web app to be migrated to another hosting platform.
+
 _Find the web app: https://worldbankdata-fertility-app.herokuapp.com/_
 
 ## Table of Contents
@@ -26,6 +27,7 @@ Data is loaded from the [World Bank APIs](https://datahelpdesk.worldbank.org/kno
 and prepared (pandas) for visualization (plotly). The application is created using Flask and was deployed on Heroku.
 
 Heroku free plan was discontinued. Web app to be migrated to another hosting platform.
+
 _You can access the app here: https://worldbankdata-fertility-app.herokuapp.com/_
 
 ## File Descriptions
