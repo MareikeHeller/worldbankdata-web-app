@@ -1,5 +1,5 @@
 # World Bank Data - Web App
-Find the web app: https://worldbankdata-fertility-app.herokuapp.com/ 
+Find the web app: https://worldbankdata-fertility-app.herokuapp.com/ (Heroku free plan was discontinued. Web app to be migrated to another hosting platform.)
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -24,7 +24,7 @@ This web app displays a data dashboard on fertility rates as births per woman in
 Data is loaded from the [World Bank APIs](https://datahelpdesk.worldbank.org/knowledgebase/articles/889386-developer-information-overview)
 and prepared (pandas) for visualization (plotly). The application is created using Flask and was deployed on Heroku.
 
-You can access the app here: https://worldbankdata-fertility-app.herokuapp.com/
+You can access the app here: https://worldbankdata-fertility-app.herokuapp.com/ (Heroku free plan was discontinued. Web app to be migrated to another hosting platform.)
 
 ## File Descriptions
 The **folder** [wrangling_scripts](https://github.com/MareikeHeller/worldbankdata-web-app/tree/main/wrangling_scripts) contains the file [wrangle_data.py](https://github.com/MareikeHeller/worldbankdata-web-app/blob/main/wrangling_scripts/wrangle_data.py) that
