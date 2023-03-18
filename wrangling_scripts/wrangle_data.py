@@ -44,7 +44,7 @@ def cleandata(filtercountries=None, filteryears=None):
     for country in data:
         data_tuples = list(zip(data[country][0], data[country][1]))
         df_single = pd.DataFrame(data_tuples, columns=['year', 'fertility_rate'])
-        df_single['country'] = [country] * 30
+        df_single['country'] = [country] * 31
         df = df.append(df_single)
 
     # Filter on countries
